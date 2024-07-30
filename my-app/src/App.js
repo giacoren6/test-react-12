@@ -5,6 +5,7 @@ function App() {
   return (
     <div className={css.App}>
       {/* Add your components here */}
+      <ContentHooks />
       <Sidebar />
     </div>
   );
